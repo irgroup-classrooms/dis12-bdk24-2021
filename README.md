@@ -6,8 +6,6 @@ Die Vorlesungen werden über Zoom angeboten: https://th-koeln.zoom.us/j/81513492
 
 Die Vorlesung findet nach dem Prinzip des *Flipped-Classroom* statt. Die Folien und Videos stehen ihnen schon jetzt vollumfänglich zur Verfügung. Ich gehe davon aus, dass Sie sich jeweils schon *vor* den Vorlesung mit dem Material beschäftigt haben. Wir werden dann nicht mehr bei Adam und Eva beginnen, sondern direkt Fragerunden, Quizes oder kleinen Übungen und Diskussionen weiter in das Thema einsteigen. Gleiches gilt für die Übungszettel, auch diese müssen *vor* den Übungsterminen bearbeitet werden.
 
-![](schedule.png)
-
 ## Folien und Video-Archiv
 
 Sollten Sie Fehler finden, informieren Sie mich bitte umgehend, indem Sie z.B. ein [neues Issue](https://github.com/irgroup/dis12-bdk24-2021/issues) anlegen.
