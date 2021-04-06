@@ -1,17 +1,16 @@
-# Information Retrieval 2020 (DIS12)
+# Information Retrieval 2020 (DIS12 und BdK2.4)
 
-## Schedule and Resources 
+## Zeitplan und Materialien
 
-All lectures will be hosted on Zoom: https://th-koeln.zoom.us/j/87016873511. The password for Zoom is the ZIP code of  TH Köln @ Claudiusstraße 1. 
+Die Vorlesungen werden über Zoom angeboten: https://th-koeln.zoom.us/j/81513492081. Das Passwort ist die Postleitzahl der TH Köln am Standort Südstadt. 
 
-The lectures are based on the *flipped-classroom principle*. One week before the actual lectures we will release the slides and video for the specific topic. At the following dates we discuss the corresponding topics in depth. You are required to watch all videos *before* the Zoom meetings. I will not start all over again but expect you to be prepared.
+Die Vorlesung findet nach dem Prinzip des *Flipped-Classroom* statt. Die Folien und Videos stehen ihnen schon jetzt vollumfänglich zur Verfügung. Ich gehe davon aus, dass Sie sich jeweils schon *vor* den Vorlesung mit dem Material beschäftigt haben. Wir werden dann nicht mehr bei Adam und Eva beginnen, sondern direkt Fragerunden, Quizes oder kleinen Übungen und Diskussionen weiter in das Thema einsteigen. Gleiches gilt für die Übungszettel, auch diese müssen *vor* den Übungsterminen bearbeitet werden.
 
-![](dis12-2020-schedule.png)
+![](dis12-bdk24-2021-schedule.png)
 
-## Slides and online lecture archive
+## Folien und Video-Archiv
 
-Please feel free to comment on all the slides available. Open up a ticket if you find anything I should update or fix. Please be aware that the videos are from a parallel course with the lecture code BM24. Don't get confused.
-
+Sollten Sie Fehler finden, informieren Sie mich bitte umgehend, indem Sie z.B. ein [neues Issue](https://github.com/irgroup/dis12-bdk24-2021/issues) anlegen.
 
 | Date                | Topic                                 | Resources      |
 |---------------------|---------------------------------------|----------------|
