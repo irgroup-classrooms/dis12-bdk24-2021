@@ -18,13 +18,11 @@ Sollten Sie Fehler finden, informieren Sie mich bitte umgehend, indem Sie z.B. e
 | 2021-04-08 | 01-Einführung und Motivation                      | [pdf](slides/01-introduction.pdf), [video](https://youtu.be/g58QPBqKJgk)  |
 | 2021-04-13 | 02-Boolean Retrieval                              | [pdf](slides/02-boolean.pdf), [video](https://youtu.be/EcPBqIM3uO0), [exercise](exercises/02-boolean-exercise.pdf) |
 | 2021-04-20 | 03-TF-IDF                                         | [pdf](slides/03-tfidf.pdf), [video](https://youtu.be/CPrij20NmXY), [exercise](exercises/03-tfidf-exercise.pdf), [shakespeare.zip](exercises/shakespeare.zip) |
-<!--
+| 2021-04-27 | Vector Space Model und Ranking                    | [pdf](slides/04-ranking.pdf), [video](https://youtu.be/b1JanvFBlWU), [exercise](exercises/04-ranking-exercise.pdf) |
+| 2021-05-04 | Index-Konstruktion               | [pdf](slides/05-index.pdf), [video](https://youtu.be/GdU5SN7q0G0), [exercise](exercises/05-index-exercise.pdf) |
 
-| 2021-11-20 | Vector Space Model                    | [pdf](slides/DIS12-04-ranking.pdf), [video](https://youtu.be/b1JanvFBlWU) |
-| 2021-11-20 | Index-Konstruktion               | [pdf](slides/DIS12-05-index.pdf), [video](https://youtu.be/GdU5SN7q0G0) |
-| 2021-12-04 | Exercise TF-IDF                       |  |
-| 2021-12-11 | Exercise Vector Space Model           | [exercise](exercises/DIS12-04-ranking-exercise.pdf) |
-| 2021-12-11 | Exercise Indexing, Terms and Tokens   | [exercise](exercises/DIS12-05-index-exercise.pdf)     |
+
+<!--
 | 2021-12-18 | Evaluation                            | [pdf](slides/DIS12-06-evaluation.pdf), [video](https://youtu.be/DDfa685DFfw) |
 | 2021-12-18 | Query Expansion                       | [pdf](slides/DIS12-07-queryexpansion.pdf), [video](https://youtu.be/4KMtwZ98vmA) |
 | 2021-01-08 | Web Crawling                          | [pdf](slides/DIS12-08-webcrawling.pdf), [video](https://youtu.be/7WldGmUVztE) |
