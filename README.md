@@ -2,12 +2,13 @@
 
 ## Zeitplan und Materialien
 
-Die Vorlesungen werden über Zoom angeboten: https://th-koeln.zoom.us/j/81513492081. Das Passwort ist die Postleitzahl der TH Köln am Standort Südstadt. 
+Die Vorlesungen und Übungen werden jeweils über Zoom angeboten. Das Passwort ist jeweils die Postleitzahl der TH Köln am Standort Südstadt. 
+
+- https://th-koeln.zoom.us/j/81513492081 (Vorlesung für beide Studiengänge) 
+- https://th-koeln.zoom.us/j/81124760574 (BdK-Übung)
+- https://th-koeln.zoom.us/j/84156556333 (DIS-Übung)
 
 Die Vorlesung findet nach dem Prinzip des *Flipped-Classroom* statt. Die Folien und Videos stehen ihnen schon jetzt vollumfänglich zur Verfügung. Ich gehe davon aus, dass Sie sich jeweils schon *vor* den Vorlesung mit dem Material beschäftigt haben. Wir werden dann nicht mehr bei Adam und Eva beginnen, sondern direkt Fragerunden, Quizes oder kleinen Übungen und Diskussionen weiter in das Thema einsteigen. Gleiches gilt für die Übungszettel, auch diese müssen *vor* den Übungsterminen bearbeitet werden.
-
-Die Übungen für BdK2.4 werden ebenfalls über Zoom angeboten:
-https://th-koeln.zoom.us/j/81124760574 (https://th-koeln.zoom.us/j/84156556333 für DIS12). Das Passwort ist auch hier die Postleitzahl der TH Köln am Standort Südstadt.
 
 ## Folien und Video-Archiv
 
