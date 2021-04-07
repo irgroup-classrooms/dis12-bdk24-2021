@@ -2,7 +2,7 @@
 
 ## Zeitplan und Materialien
 
-Die Vorlesungen und Übungen werden jeweils über Zoom angeboten. Das Passwort ist jeweils die Postleitzahl der TH Köln am Standort Südstadt. 
+Die Vorlesungen und Übungen werden jeweils über Zoom angeboten. Das Passwort ist die offizielle Postleitzahl der TH Köln am Gustav-Heinemann-Ufer 54. 
 
 - https://th-koeln.zoom.us/j/81513492081 (Vorlesung für beide Studiengänge) 
 - https://th-koeln.zoom.us/j/81124760574 (BdK-Übung)
