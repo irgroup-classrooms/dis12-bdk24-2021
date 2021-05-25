@@ -12,7 +12,7 @@ Die Vorlesung findet nach dem Prinzip des *Flipped-Classroom* statt. Die Folien 
 
 ## Ankündigungen
 
-* Am 28.5.2021 findet die Moodle-Probeklausur statt. Der Link wird 
+* Am 28.5.2021 findet die [Moodle-Probeklausur](https://elearning.iws.th-koeln.de/moodle/course/view.php?id=1494) statt. Der Test ist z.Z. noch durch ein Passwort geschützt, dass Ihnen in der Veranstaltung mitgeteilt wird. Entgegen der früheren Ankündigung, wird *direkt im Anschluss* die Probeklausur besprochen. *In den Übungen* wird es für Sie noch mal die Möglichkeit geben, gezielt auf die ersten 5 Übungszettel einzugehen. Nehmen Sie bzgl. Ihrer Wünsche notieren Sie bitte im Diskussionsforum. 
 
 ## Folien und Video-Archiv
 
