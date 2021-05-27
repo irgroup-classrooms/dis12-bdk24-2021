@@ -6,7 +6,7 @@ Die Vorlesungen und Übungen werden jeweils über Zoom angeboten. Das Passwort i
 
 - https://th-koeln.zoom.us/j/81513492081 (Vorlesung für beide Studiengänge) 
 - https://th-koeln.zoom.us/j/81124760574 (BdK-Übung)
-- https://th-koeln.zoom.us/j/84156556333 (DIS-Übung)
+- https://th-koeln.zoom.us/j/84156556333 (https://th-koeln.zoom.us/j/83919760759) (DIS-Übung)
 
 Die Vorlesung findet nach dem Prinzip des *Flipped-Classroom* statt. Die Folien und Videos stehen ihnen schon jetzt vollumfänglich zur Verfügung. Ich gehe davon aus, dass Sie sich jeweils schon *vor* den Vorlesung mit dem Material beschäftigt haben. Wir werden dann nicht mehr bei Adam und Eva beginnen, sondern direkt Fragerunden, Quizes oder kleinen Übungen und Diskussionen weiter in das Thema einsteigen. Gleiches gilt für die Übungszettel, auch diese müssen *vor* den Übungsterminen bearbeitet werden.
 
