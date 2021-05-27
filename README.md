@@ -26,7 +26,7 @@ Sollten Sie Fehler finden, informieren Sie mich bitte umgehend, indem Sie z.B. e
 | 2021-04-22 | 03-TF-IDF                                         | [pdf](slides/03-tfidf.pdf), [video](https://youtu.be/CPrij20NmXY), [exercise](exercises/03-tfidf-exercise.pdf) |
 | 2021-04-29 | 04-Vector Space Model und Ranking                 | [pdf](slides/04-ranking.pdf), [video](https://youtu.be/b1JanvFBlWU), [exercise](exercises/04-ranking-exercise.pdf) |
 | 2021-05-06 | 05-Index-Konstruktion                             | [pdf](slides/05-index.pdf), [video](https://youtu.be/GdU5SN7q0G0), [exercise](exercises/05-index-exercise.pdf) |
-| 2021-05-27 | 06-Probeklausur + anschließende Besprechung (live, kein Video)| [moodle](https://elearning.iws.th-koeln.de/moodle/course/view.php?id=1494) |
+| 2021-05-27 | 06-Probeklausur + anschließende Besprechung (live, kein Video)| [moodle](https://elearning.iws.th-koeln.de/moodle/course/view.php?id=1494), [pdf](slides/06-testexam.pdf) |
 | 2021-06-10 | 07-Evaluation                                     | [pdf](slides/07-evaluation.pdf), [video](https://youtu.be/DDfa685DFfw), [exercise](exercises/07-evaluation-exercise.pdf) |
 | 2021-06-17 | 08-Query-Expansion                                | [pdf](slides/08-queryexpansion.pdf), [video](https://youtu.be/4KMtwZ98vmA), [exercise](exercises/08-queryexpansion-exercise.pdf) |
 | 2021-01-08 | 09-Web-Suche                                      | [pdf], [video], [exercise] |
